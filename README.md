@@ -24,9 +24,12 @@ Topic-based notes for LeetCode-style problems
 Java-specific syntax tricks, useful for interviews and fast coding  
 Java 语言重点语法与技巧
 
+- [arrays-collections-notes.md](./java-syntax/arrays-collections-notes.md) - Java Arrays & Collections Systematic Notes
 - [arrays.md](./java-syntax/arrays.md) — Arrays API, sorting, common pitfalls  
+- [anonymous-inner-class.md](./java-syntax/anonymous-inner-class.md) - Anonymous inner class Basic Syntax
+- [comparator.md](./java-syntax/comparator.md) - Comparator Interface Basic Syntax
+- [map.md](./java-syntax/map.md) - Map Quick Notes
 - list.md 
-- map.md 
 
 ---
 
@@ -46,5 +49,5 @@ Templates and usage patterns for common data structures
 
 ---
 
-_Last updated: June 12, 2025_  
+_Last updated: June 15, 2025_  
 _Compiled by: Riley_
